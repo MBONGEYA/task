@@ -4,3 +4,6 @@ welcome to Noella's fruit juice kitchen
 
 pinapple
 watermelon
+apple juice 
+lemonade juice
+carrot juice
